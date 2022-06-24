@@ -29,19 +29,20 @@ window.onload=function(){
             pauseTag = document.querySelector("#pause");
             pauseTag.innerHTML = updateMessage;
             playTime_before = video.currentTime;
-            seekingFlag = true;
         }
         t1 = video.currentTime;
         t2 = video.currentTime;
     });
 };
 function updateTimer(){
-    var timer = document.getElementById("timer");
-    timer.innerHTML = video.currentTime+"/"+video.duration;
+    // var timer = document.getElementById("timer");
+    // timer.innerHTML = video.currentTime+"/"+video.duration;
     t2 = video.currentTime;
     if((t2-t1)>0 && (t2-t1)<0.5){
         t1=t2;
     }
+    // document.querySelector("#t1").innerHTML = "t1: " + t1;
+    // document.querySelector("#t2").innerHTML = "t2: " + t2;
 }
 function loadFile(input){
     var file = input.files[0];
