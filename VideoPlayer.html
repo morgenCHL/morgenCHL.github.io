@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"></meta>
+        <title>Video Player</title>
+        <link rel="stylesheet" type="text/css" href="coreStyle.css"/>
+        <script src="function.js"></script>
+    </head>
+    <body>        
+        <div class="nav">
+            <span class="Logo">
+                <img src="ML2Lab.png" alt="Logo" height="28">
+            </span>
+            <span id="Title-01">
+                高等應用統計 
+            </span>
+            <label class="nav-right">
+                <label class="CTA">
+                    <input style="display:none;" id="body-01" type="file" onchange="loadFile(this)" />
+                    選擇影片
+                </label>
+                <label class="CTA">
+                    <a href="Ads_L3_RM-ANOVA.pdf" target="_blank" download type="application/octet-stream">下載課程講義</a>
+                </label>
+            </label>
+        </div>
+        <div class="main">
+            <div class="videoPage">
+                <div class="videoCourse">
+                    <div class="videoPanel">
+                        <div class="videoWindow">
+                            <video class="video" id="video" src="Ads_L3_RM-ANOVA_01.mp4" controls></video>
+                        </div>
+                        <div class="videoInfo">
+                            <img src="ML2Lab-Teacher.png" alt="Teacher" height="40">
+                            <div class="videoTitle">
+                                <span id="body-02"><b>Lecture 3: RM-ANOVA</b><br/></span>
+                                <span id="body-03">Part-01</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="videoMenu">
+                        <div class="videoMenuSelector">
+                            <button class="courseBtn">當前單元</button>
+                            <button class="courseBtn">當期課程</button>
+                            <button class="courseBtn">所有課程</button>
+                        </div>
+                        <div class="separateLine"></div>
+                        <div class="videoMenuContent">
+                            <div class="videoCard">
+                                <div class="videoCover">
+                                    <img src="BS-01.png" alt="videoCover">
+                                </div>
+                                <div class="videoCardInfo">
+                                    <div id="body-04"><b>Part-01: Introdiction</b></div>
+                                    <div id="body-05">Lecture 3: RM-ANOVA</div>
+                                    <div id="body-05">12:43</div>
+                                </div>
+                            </div>
+                            <div class="videoCard">
+                                <div class="videoCover">
+                                    <img src="BS-02.png" alt="videoCover">
+                                </div>
+                                <div class="videoCardInfo">
+                                    <div id="body-04"><b>Part-02: Hypothesis</b></div>
+                                    <div id="body-05">Lecture 3: RM-ANOVA</div>
+                                    <div id="body-05">22:37</div>
+                                </div>
+                            </div>
+                            <div class="videoCard">
+                                <div class="videoCover">
+                                    <img src="BS-03.png" alt="videoCover">
+                                </div>
+                                <div class="videoCardInfo">
+                                    <div id="body-04"><b>Part-03: Post-hoc</b></div>
+                                    <div id="body-05">Lecture 3: RM-ANOVA</div>
+                                    <div id="body-05">18:06</div>
+                                </div>
+                            </div>
+                            <div class="videoCard">
+                                <div class="videoCover">
+                                    <img src="BS-04.png" alt="videoCover">
+                                </div>
+                                <div class="videoCardInfo">
+                                    <div id="body-04"><b>Part-04: Practice with R</b></div>
+                                    <div id="body-05">Lecture 3: RM-ANOVA</div>
+                                    <div id="body-05">08:53</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <ul class="videoAnalysis">
+                    <li id="pause">影片暫停次數: 0 次</li>
+                    <li id="rewind">影片倒帶次數: 0 次</li>
+                    <li id="forward">影片跳躍次數: 0 次</li>
+                </ul>
+            </div>
+            <!-- dashboard -->
+            <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/51203023-c314-4268-8ef0-f891ffd56a86/page/ltLhB" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+    </body>
+</html>
