@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video-Based Learning on Video-Based Learning Platform</title>
+    <link>https://morgenCHL.github.io/tags/video-based-learning/</link>
+    <description>Recent content in Video-Based Learning on Video-Based Learning Platform</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 24 Jun 2022 23:05:24 +0800</lastBuildDate><atom:link href="https://morgenCHL.github.io/tags/video-based-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A whole new world</title>
+      <link>https://morgenCHL.github.io/blog/blog-02/</link>
+      <pubDate>Fri, 24 Jun 2022 23:05:24 +0800</pubDate>
+      
+      <guid>https://morgenCHL.github.io/blog/blog-02/</guid>
+      <description>In the second blog
+I have changed a new picture.</description>
+    </item>
+    
+    <item>
+      <title>My first article on Hugo</title>
+      <link>https://morgenCHL.github.io/blog/test/</link>
+      <pubDate>Fri, 24 Jun 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://morgenCHL.github.io/blog/test/</guid>
+      <description>Hello World
+I&amp;rsquo;m Dr. Liao.</description>
+    </item>
+    
+  </channel>
+</rss>

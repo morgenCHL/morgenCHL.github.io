@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Video-Based Learning Platform</title>
+    <link>https://morgenCHL.github.io/tags/</link>
+    <description>Recent content in Tags on Video-Based Learning Platform</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 24 Jun 2022 23:05:24 +0800</lastBuildDate><atom:link href="https://morgenCHL.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Analytics</title>
+      <link>https://morgenCHL.github.io/tags/learning-analytics/</link>
+      <pubDate>Fri, 24 Jun 2022 23:05:24 +0800</pubDate>
+      
+      <guid>https://morgenCHL.github.io/tags/learning-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motivation</title>
+      <link>https://morgenCHL.github.io/tags/motivation/</link>
+      <pubDate>Fri, 24 Jun 2022 23:05:24 +0800</pubDate>
+      
+      <guid>https://morgenCHL.github.io/tags/motivation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video-Based Learning</title>
+      <link>https://morgenCHL.github.io/tags/video-based-learning/</link>
+      <pubDate>Fri, 24 Jun 2022 23:05:24 +0800</pubDate>
+      
+      <guid>https://morgenCHL.github.io/tags/video-based-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://morgenCHL.github.io/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://morgenCHL.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://morgenCHL.github.io/tags/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://morgenCHL.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://morgenCHL.github.io/tags/new/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://morgenCHL.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://morgenCHL.github.io/tags/photos/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://morgenCHL.github.io/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://morgenCHL.github.io/tags/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://morgenCHL.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
