@@ -36,7 +36,7 @@ window.onload=function(){
 };
 function updateTimer(){
     t2 = video.currentTime;
-    if((t2-t1)>0 && (t2-t1)<0.5){
+    if((t2-t1)>0 && (t2-t1)<1){
         t1=t2;
     }
     var timer = document.getElementById("timer");
@@ -49,6 +49,20 @@ function loadFile(input){
     var src = URL.createObjectURL(file);
     video = document.getElementById("video");
     video.src=src;
+    video.load();
+    video.addEventListener("timeupdate", updateTimer);
+}
+function hoverVideoCard(element){
+    element.style.background="#E8F6F5";
+    element.style.border="1px solid #01771ad5";
+}
+function outVideoCard(element){
+    element.style.background="white";
+    element.style.removeProperty('border');
+}
+function changeVideo(videoLink){
+    video = document.getElementById("video");
+    video.src = videoLink;
     video.load();
     video.addEventListener("timeupdate", updateTimer);
 }
