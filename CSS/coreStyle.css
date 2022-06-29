@@ -7,11 +7,11 @@
     padding: 8px 16px;
     
     /* fixed length */
-    width: 800px;
+    /* width: 800px; */
     /* hug content */
     /* display: inline-block; */
     /* fill container */
-    /* width: auto; */
+    width: auto;
 }
 .nav-right{
     display: flex;
@@ -37,7 +37,7 @@
     flex-direction: column;
     gap: 8px;
     padding: 8px 16px;
-    width: 800px;
+    /* width: 800px; */
     border: 2px dashed rgba(164, 164, 164, 0.313);
     border-radius: 8px;
 }
@@ -45,20 +45,24 @@
     display: flex;
     flex-direction: column;
     gap: 8px;
+    
 }
 .videoCourse{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     gap: 16px;
+    width: auto;
 }
 .videoMenu{
     display: flex;
     flex-direction: column;
     flex-grow: 1;
-    /* width: 100%; */
     border: 4px solid #8989897c;
     border-radius: 8px;
+
+    /* width: 100%; */
+    width: 40%;
 }
 .videoMenuSelector{
     display: flex;
@@ -131,9 +135,10 @@ img {
     display: flex;
     flex-direction: column;
     display: inline-block;
+    width: 60%;
 }
 .videoWindow{
-    /* width: 400px; */
+    width: 100%;
     height: 300px;
     overflow-block: hidden;
     /* background: #ff0000; */
