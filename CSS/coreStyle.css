@@ -62,7 +62,7 @@
     border-radius: 8px;
 
     /* width: 100%; */
-    width: 40%;
+    width: 30%;
 }
 .videoMenuSelector{
     display: flex;
@@ -134,7 +134,8 @@ img {
 .videoPanel{
     display: flex;
     flex-direction: column;
-    display: inline-block;
+    /* display: inline-block; */
+    overflow-block: hidden;
     width: 60%;
 }
 .videoWindow{
