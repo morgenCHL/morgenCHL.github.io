@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>ব্যাশের নোট সমূহ</title>
+    <title>Bash Notes</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -38,12 +38,10 @@
 
   <link rel="icon" type="image/png" href="/images/site/favicon_hub02d7508a1c89b2b7812eab204efeb9a_4223_42x0_resize_box_3.png" />
 
-<meta property="og:title" content="ব্যাশের নোট সমূহ" />
-<meta property="og:description" content="Bash Notes " />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://hugo-toha.github.io/notes/bash/" /><meta property="article:section" content="notes" />
-
-
+<meta property="og:title" content="Bash Notes" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://hugo-toha.github.io/notes/bash/" />
 
 
 
@@ -139,6 +137,33 @@ if (!doNotTrack) {
     <div class="collapse navbar-collapse lang-selector" id="top-nav-items">
       <ul class="navbar-nav ml-auto">
       
+        
+
+  
+
+
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="languageSelector" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      
+        
+        <span class="flag-icon flag-icon-gb"></span>
+      
+      English
+    </a>
+    <div class="dropdown-menu" aria-labelledby="languageSelector">
+      
+        <a class="dropdown-item nav-link languages-item" href="/bn/notes/bash">
+          
+            
+            <span class="flag-icon flag-icon-bd"></span>
+          
+          中文
+        </a>
+      
+    </div>
+</li>
+
+      
       
         <li class="nav-item dropdown">
 
@@ -211,7 +236,7 @@ if (!doNotTrack) {
   
     
     <li>
-      <i class="fas fa-plus-circle"></i><a class="" href="/notes/go/basic/">বেসিক</a>
+      <i class="fas fa-plus-circle"></i><a class="" href="/notes/go/basic/">Basics</a>
       
       <ul class="">
         
@@ -221,7 +246,7 @@ if (!doNotTrack) {
   
   
     
-    <li><a class="" href="/notes/go/basic/introduction/" title="পরিচিতি">পরিচিতি</a></li>
+    <li><a class="" href="/notes/go/basic/introduction/" title="Introduction">Introduction</a></li>
   
 
   
@@ -230,7 +255,7 @@ if (!doNotTrack) {
   
   
     
-    <li><a class="" href="/notes/go/basic/types/" title="বেসিক টাইপ সমূহ">বেসিক টাইপ সমূহ</a></li>
+    <li><a class="" href="/notes/go/basic/types/" title="Basic Types">Basic Types</a></li>
   
 
   
@@ -254,7 +279,7 @@ if (!doNotTrack) {
   
     
     <li>
-      <i class="fas fa-plus-circle"></i><a class="" href="/notes/go/advanced/">অ্যাডভান্সড</a>
+      <i class="fas fa-plus-circle"></i><a class="" href="/notes/go/advanced/">Advanced</a>
       
       <ul class="">
         
@@ -264,7 +289,7 @@ if (!doNotTrack) {
   
   
     
-    <li><a class="" href="/notes/go/advanced/files/" title="ফাইল ম্যানিপুলেশন">ফাইল ম্যানিপুলেশন</a></li>
+    <li><a class="" href="/notes/go/advanced/files/" title="File Manipulation">File Manipulation</a></li>
   
 
 
@@ -287,7 +312,7 @@ if (!doNotTrack) {
   
     
     <li>
-      <i class="fas fa-minus-circle"></i><a class="active" href="/notes/bash/">ব্যাশ</a>
+      <i class="fas fa-minus-circle"></i><a class="active" href="/notes/bash/">Bash</a>
       
       <ul class="active">
         
@@ -297,7 +322,7 @@ if (!doNotTrack) {
   
   
     
-    <li><a class="" href="/notes/bash/basic/" title="ভেরিয়েবল">ভেরিয়েবল</a></li>
+    <li><a class="" href="/notes/bash/basic/" title="Variables">Variables</a></li>
   
 
 
@@ -319,8 +344,48 @@ if (!doNotTrack) {
 <section class="content-section" id="content-section">
   <div class="content container-fluid" id="content">
     <div class="container-fluid note-card-holder" id="note-card-holder">
-      <h1 id="bash-notes">Bash Notes</h1>
+      
+      
+        
+          <!-- Variable -->
+<div class="note-card ">
+    <div class="item">
+        <h5 class="note-title"><span>Variable</span></h5>
+        
+            <div class="card">
+                <div class="card-body"><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>NAME<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;John&#34;</span>
+</span></span><span style="display:flex;"><span>echo $NAME
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;</span>$NAME<span style="color:#e6db74">&#34;</span>
+</span></span><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">${</span>NAME<span style="color:#e6db74">}</span><span style="color:#e6db74">
+</span></span></span></code></pre></div></div>
+            </div>
+        
+    </div>
+</div>
 
+<!-- Condition -->
+<div class="note-card ">
+    <div class="item">
+        <h5 class="note-title"><span>Condition</span></h5>
+        
+            <div class="card">
+                <div class="card-body"><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#66d9ef">if</span> <span style="color:#f92672">[[</span> -z <span style="color:#e6db74">&#34;</span>$string<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>  echo <span style="color:#e6db74">&#34;String is empty&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">elif</span> <span style="color:#f92672">[[</span> -n <span style="color:#e6db74">&#34;</span>$string<span style="color:#e6db74">&#34;</span> <span style="color:#f92672">]]</span>; <span style="color:#66d9ef">then</span>
+</span></span><span style="display:flex;"><span>  echo <span style="color:#e6db74">&#34;String is not empty&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
+</span></span></code></pre></div></div>
+            </div>
+        
+    </div>
+</div>
+
+
+        
+      
+    </div>
+    <div class="paginator">
+      
     </div>
   </div>
 </section>
