@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>程式碼 on Morgen&#39;s Blog</title>
+    <link>https://hugo-toha.github.io/tags/%E7%A8%8B%E5%BC%8F%E7%A2%BC/</link>
+    <description>Recent content in 程式碼 on Morgen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Jul 2022 18:03:25 +0800</lastBuildDate><atom:link href="https://hugo-toha.github.io/tags/%E7%A8%8B%E5%BC%8F%E7%A2%BC/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>第一篇文章以en為主</title>
+      <link>https://hugo-toha.github.io/posts/blog01/</link>
+      <pubDate>Thu, 14 Jul 2022 18:03:25 +0800</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/blog01/</guid>
+      <description>天啊，我終於架設出屬於自己的網站了
+看著網站資料夾中，層層堆疊的檔案們，感受到滿滿的成就感。
+希望未來我能夠抱持著現在這樣的感動，將自己的學習歷程、生活感受，
+利用這個平台記錄下來</description>
+    </item>
+    
+    
+  </channel>
+</rss>
