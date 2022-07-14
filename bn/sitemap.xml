@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-toha.github.io/bn/notes/go/basic/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hugo-toha.github.io/notes/go/basic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://hugo-toha.github.io/bn/notes/go/basic/"
-                />
-  </url><url>
     <loc>https://hugo-toha.github.io/bn/notes/go/basic/introduction/</loc>
     <xhtml:link
                 rel="alternate"
@@ -24,6 +12,18 @@
                 rel="alternate"
                 hreflang="bn"
                 href="https://hugo-toha.github.io/bn/notes/go/basic/introduction/"
+                />
+  </url><url>
+    <loc>https://hugo-toha.github.io/bn/notes/go/basic/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hugo-toha.github.io/notes/go/basic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://hugo-toha.github.io/bn/notes/go/basic/"
                 />
   </url><url>
     <loc>https://hugo-toha.github.io/bn/notes/go/advanced/</loc>
@@ -260,18 +260,6 @@
                 href="https://hugo-toha.github.io/bn/notes/"
                 />
   </url><url>
-    <loc>https://hugo-toha.github.io/bn/notes/bash/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hugo-toha.github.io/notes/bash/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://hugo-toha.github.io/bn/notes/bash/"
-                />
-  </url><url>
     <loc>https://hugo-toha.github.io/bn/notes/go/</loc>
     <xhtml:link
                 rel="alternate"
@@ -282,6 +270,18 @@
                 rel="alternate"
                 hreflang="bn"
                 href="https://hugo-toha.github.io/bn/notes/go/"
+                />
+  </url><url>
+    <loc>https://hugo-toha.github.io/bn/notes/bash/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hugo-toha.github.io/notes/bash/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://hugo-toha.github.io/bn/notes/bash/"
                 />
   </url>
 </urlset>
