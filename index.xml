@@ -7,85 +7,59 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 14 Jul 2022 18:03:25 +0800</lastBuildDate><atom:link href="https://hugo-toha.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-      <title>Post at bn</title>
-      <link>https://hugo-toha.github.io/posts/</link>
+      <title>Basic Schema: Exercise-01</title>
+      <link>https://hugo-toha.github.io/posts/toulmin-system/basic-schema/exercise-01/exercise-01/</link>
       <pubDate>Thu, 14 Jul 2022 18:03:25 +0800</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/</guid>
-      <description></description>
+      <guid>https://hugo-toha.github.io/posts/toulmin-system/basic-schema/exercise-01/exercise-01/</guid>
+      <description>Claim: Buy this stereo system Reason: because it has a powerful amplifier. Grounds: comparison showing that the system’s amplifier outperforms others. customer feedback reporting the satisfaction with the system’s amplifier. Specification indicating that the system’s amplifier is powerful. Warrant: Powerful amplifiers make good stereo systems. Backing: evidence showing that powerful amplifiers can deliver more hi-fi music, deliver sound farther, work more efficiently, and enable more equalizer adjustments. Rebutting the reason: unless this system does not have a powerful amplifier.</description>
     </item>
     
     <item>
-      <title>第一篇文章以en為主</title>
-      <link>https://hugo-toha.github.io/posts/blog01/</link>
+      <title>Basic Schema: Exercise-02</title>
+      <link>https://hugo-toha.github.io/posts/toulmin-system/basic-schema/exercise-02/exercise-02/</link>
       <pubDate>Thu, 14 Jul 2022 18:03:25 +0800</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/blog01/</guid>
-      <description>天啊，我終於架設出屬於自己的網站了
-看著網站資料夾中，層層堆疊的檔案們，感受到滿滿的成就感。
-希望未來我能夠抱持著現在這樣的感動，將自己的學習歷程、生活感受，
-利用這個平台記錄下來</description>
+      <guid>https://hugo-toha.github.io/posts/toulmin-system/basic-schema/exercise-02/exercise-02/</guid>
+      <description>Claim: Practicing the piano is good for kids Reason: because it teaches discipline. Grounds: Examples showing that playing the piano enhance a kid’s discipline. Cases or observation indicating that kids who plays piano behave decently and follow regulations. Statistics revealing that kids who playing better piano behave more disciplined. Warrant: Kids should be taught discipline. An activity that teaches discipline is good. Backing: Arguments showing that disciplined kids have better personal development, have more significant achievement, and establish better rapport with others.</description>
     </item>
     
     <item>
-      <title>Markdown 是這裡嗎？এর নমুনা</title>
-      <link>https://hugo-toha.github.io/posts/markdown-sample/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      <title>Basic Schema: Exercise-03</title>
+      <link>https://hugo-toha.github.io/posts/toulmin-system/basic-schema/exercise-03/exercise-03/</link>
+      <pubDate>Thu, 14 Jul 2022 18:03:25 +0800</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/markdown-sample/</guid>
-      <description>এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
-একজন ভিন্ন পোস্ট লেখক। সূচীপত্র। Markdown কন্টেন্ট রেন্ডারিং। গণিত রেন্ডারিং। ইমোজি রেন্ডারিং। Markdown Syntax Rendering Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+      <guid>https://hugo-toha.github.io/posts/toulmin-system/basic-schema/exercise-03/exercise-03/</guid>
+      <description>Claim: Welfare benefits for unwed mothers should not be eliminated Reason: because these benefits are needed to prevent unbearable poverty among our nation’s most helpless citizens. Grounds: statistics reporting that unwed mothers are helpless citizens and suffer poverty. examples showing that welfare benefits prevent unwed mothers from being poor. interviews with unwed mothers indicating that these welfare benefits are necessary and helpful. Warrant: We should prevent poverty among our nation’s most helpless citizens.</description>
     </item>
     
     <item>
-      <title>Sub-Category</title>
-      <link>https://hugo-toha.github.io/posts/category/sub-category/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      <title>Basic Schema: Exercise-04</title>
+      <link>https://hugo-toha.github.io/posts/toulmin-system/basic-schema/exercise-04/exercise-04/</link>
+      <pubDate>Thu, 14 Jul 2022 18:03:25 +0800</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/category/sub-category/</guid>
-      <description></description>
+      <guid>https://hugo-toha.github.io/posts/toulmin-system/basic-schema/exercise-04/exercise-04/</guid>
+      <description>Claim: The Endangered Species Act is too stringent Reason: because it severely damages the economy. Grounds: Data showing that the damaged economy is caused by this Act, and the constraints listed in the Act greatly decrease economic benefits. Testimony showing that loosening the act will substantially improve the economy. Testimony from economic experts (e.g., officials, scholars, and commentators) may be authoritative and convincing. We should take their advice if they claim that the economy will improve with a looser act after considering overall situations.</description>
     </item>
     
     <item>
-      <title>Top Category Sample</title>
-      <link>https://hugo-toha.github.io/posts/category/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      <title>Basic Schema: Exercise-05</title>
+      <link>https://hugo-toha.github.io/posts/toulmin-system/basic-schema/exercise-05/exercise-05/</link>
+      <pubDate>Thu, 14 Jul 2022 18:03:25 +0800</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/category/</guid>
-      <description></description>
+      <guid>https://hugo-toha.github.io/posts/toulmin-system/basic-schema/exercise-05/exercise-05/</guid>
+      <description>Claim: Abortion should be legal. Reason: because a woman has the right to control her own body. Grounds: Testimony supporting that abortion represents control of the body. Arguments indicating that abortion is a women’s right Laws that guarantee individual freedom. A list of countries that have already legalized abortion. Warrant: We have the right to control our own bodies. A fetus belongs to a pregnant woman. (surrogate mother?) A pregnant woman has the right to decide the fate of the fetus.</description>
     </item>
     
     <item>
-      <title>ভূমিকা英雄</title>
-      <link>https://hugo-toha.github.io/posts/introduction/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      <title>Introduction of the Toulmin System</title>
+      <link>https://hugo-toha.github.io/posts/toulmin-system/introduction/</link>
+      <pubDate>Thu, 14 Jul 2022 18:03:25 +0800</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/introduction/</guid>
-      <description>স্বাগতম! এটি একটি ভূমিকা সূচক পোস্ট। এই পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
-হেরো ছবিটি পোস্ট এর সাথে একই পথে আছে। এই পোস্টটি সাইডবারের সবার প্রথমে থাকা উচিত। পোস্টের লেখক author.yaml ফাইল এ যাকে উল্লেখ করা হয়েছে তিনিই থাকবেন। </description>
-    </item>
-    
-    <item>
-      <title>শর্টকোডের  নমুনা</title>
-      <link>https://hugo-toha.github.io/posts/shortcodes/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>https://hugo-toha.github.io/posts/shortcodes/</guid>
-      <description>এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
-ডিফল্ট হিরো ইমেজ। বিভিন্ন শর্টকোড। এলার্ট এই থিমের মধ্যে এই সকল এলার্ট রয়েছেঃ
-এটা type=&amp;quot;success&amp;quot; দিয়ে নমুনা এলার্ট। এটা type=&amp;quot;danger&amp;quot; দিয়ে নমুনা এলার্ট। এটা type=&amp;quot;warning&amp;quot; দিয়ে নমুনা এলার্ট। এটা type=&amp;quot;info&amp;quot; দিয়ে নমুনা এলার্ট। এটা type=&amp;quot;dark&amp;quot; দিয়ে নমুনা এলার্ট। এটা type=&amp;quot;primary&amp;quot; দিয়ে নমুনা এলার্ট। এটা type=&amp;quot;secondary&amp;quot; দিয়ে নমুনা এলার্ট। ছবি কোন ধরনের attribute ছাড়া ছবির একটি নমুনা। height এবং width attribute সহ ছবির একটি নমুনা। height এবং width attribute সহ মাঝখানে স্তাপিত ছবির একটি নমুনা। float attribute সহ ছবির একটি নমুনা। Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-    </item>
-    
-    <item>
-      <title>সমৃদ্ধ কন্টেন্ট</title>
-      <link>https://hugo-toha.github.io/posts/category/sub-category/rich-content/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>https://hugo-toha.github.io/posts/category/sub-category/rich-content/</guid>
-      <description>এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
-বিভাগ, উপ-বিভাগে সাইডবারে একটির ভেতর আরেকটি কিভাবে আছে সেটা দেখা। হেরো ছবিটি পোস্ট যে পথে আছে সে পথে images ফোল্ডার এ থাকবে। বিভিন্ন মিডিয়া যেমন ছবি, টুইট, ইউটিউব ভিডিও, ভীমেও ভিডিও ইত্যাদি রেন্ডারিং। ছবির নমুনা টুইটের নুমুনা Owl bet you&amp;#39;ll lose this staring contest 🦉 pic.twitter.com/eJh4f2zncC
-&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) October 26, 2021 ইউটিওবের ভিডিও নমুনা ভীমেও ভিডিও নমুনা </description>
+      <guid>https://hugo-toha.github.io/posts/toulmin-system/introduction/</guid>
+      <description>The Toulmin&amp;rsquo;s system comes from pholosopher Stephen Toulmin.
+This system assumes:
+that all assertions and assumptions are contestable. that all final verdicts about the persuasiveness of the opposing arguments should be supported by a neutral third party </description>
     </item>
     
     
