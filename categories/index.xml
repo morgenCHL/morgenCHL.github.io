@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Morgen&#39;s Blog</title>
-    <link>https://hugo-toha.github.io/categories/</link>
+    <link>https://morgenchl.github.io/categories/</link>
     <description>Recent content in Categories on Morgen&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Jul 2022 18:03:25 +0800</lastBuildDate><atom:link href="https://hugo-toha.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 18:03:25 +0800</lastBuildDate><atom:link href="https://morgenchl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
