@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Tags</title>
+    <title>ব্যাশের নোট সমূহ</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -38,20 +38,23 @@
 
   <link rel="icon" type="image/png" href="/images/site/favicon_hu412a558cae009c2442b1d9801a308e5e_274574_42x0_resize_box_3.png" />
 
-<meta property="og:title" content="Tags" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://hugo-toha.github.io/tags/" />
+<meta property="og:title" content="ব্যাশের নোট সমূহ" />
+<meta property="og:description" content="Bash Notes " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://hugo-toha.github.io/notes/bash/" /><meta property="article:section" content="notes" />
+
+
 
 
 
     
     
-    <link rel="stylesheet" href="/css/layouts/list.css">
-    <link rel="stylesheet" href="/css/navigators/sidebar.css">
-    
-    <link rel="stylesheet" href="/css/style.css"/>
-
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css"
+  />
+  <link rel="stylesheet" href="/css/layouts/notes.css">
+  <link rel="stylesheet" href="/css/navigators/sidebar.css">
 
 
     
@@ -186,36 +189,119 @@ if (!doNotTrack) {
         </form>
         <div class="sidebar-tree">
           <ul class="tree" id="tree">
-            <li id="list-heading"><a href="/tags" data-filter="all">Tags</a></li>
-            <div class="subtree taxonomy-terms">
-              
-              
-
-
+            <li id="list-heading"><a href="/notes" data-filter="all">Notes</a></li>
+            <div class="subtree">
+                
+  
+  
+  
+  
+  
+    
+    <li>
+      <i class="fas fa-plus-circle"></i><a class="" href="/notes/go/">Go</a>
+      
+      <ul class="">
+        
+  
+  
+  
+  
+  
+    
+    <li>
+      <i class="fas fa-plus-circle"></i><a class="" href="/notes/go/basic/">বেসিক</a>
+      
+      <ul class="">
+        
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/notes/go/basic/introduction/" title="পরিচিতি">পরিচিতি</a></li>
+  
 
   
   
+  
+  
+  
+    
+    <li><a class="" href="/notes/go/basic/types/" title="বেসিক টাইপ সমূহ">বেসিক টাইপ সমূহ</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/notes/go/basic/flow-control/" title="Flow Control">Flow Control</a></li>
+  
+
+
+      </ul>
+    </li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li>
+      <i class="fas fa-plus-circle"></i><a class="" href="/notes/go/advanced/">অ্যাডভান্সড</a>
+      
+      <ul class="">
         
-          
-            
-          
-          <li><a class="taxonomy-term " href="https://hugo-toha.github.io/tags/academic-writing/" data-taxonomy-term="academic-writing"><span class="taxonomy-label">Academic Writing</span></a></li>
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/notes/go/advanced/files/" title="ফাইল ম্যানিপুলেশন">ফাইল ম্যানিপুলেশন</a></li>
+  
+
+
+      </ul>
+    </li>
+  
+
+
+      </ul>
+    </li>
+  
+
+  
+  
+  
+  
+    
+    
+  
+  
+    
+    <li>
+      <i class="fas fa-minus-circle"></i><a class="active" href="/notes/bash/">ব্যাশ</a>
+      
+      <ul class="active">
         
-          
-            
-          
-          <li><a class="taxonomy-term " href="https://hugo-toha.github.io/tags/argument/" data-taxonomy-term="argument"><span class="taxonomy-label">Argument</span></a></li>
-        
-          
-            
-          
-          <li><a class="taxonomy-term " href="https://hugo-toha.github.io/tags/assumption/" data-taxonomy-term="assumption"><span class="taxonomy-label">Assumption</span></a></li>
-        
-          
-            
-          
-          <li><a class="taxonomy-term " href="https://hugo-toha.github.io/tags/introduction/" data-taxonomy-term="introduction"><span class="taxonomy-label">Introduction</span></a></li>
-        
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/notes/bash/basic/" title="ভেরিয়েবল">ভেরিয়েবল</a></li>
+  
+
+
+      </ul>
+    </li>
   
 
 
@@ -231,13 +317,9 @@ if (!doNotTrack) {
       
 <section class="content-section" id="content-section">
   <div class="content container-fluid" id="content">
-    <div class="container-fluid post-card-holder" id="post-card-holder">
-      
-      
-      
-    </div>
-    <div class="paginator">
-      
+    <div class="container-fluid note-card-holder" id="note-card-holder">
+      <h1 id="bash-notes">Bash Notes</h1>
+
     </div>
   </div>
 </section>
@@ -488,7 +570,13 @@ if (!doNotTrack) {
 
     
     
-    <script src="/js/list.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js"></script>
+  <script src="/js/imagesloaded.pkgd.min.js"></script>
+  <script src="/js/note.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+  </script>
+  
 
 
     
