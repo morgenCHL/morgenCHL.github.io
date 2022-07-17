@@ -1,7 +1,8 @@
 "use strict";
 
 const updateNavBar = () => {
-  if ($(document).scrollTop() > 40) {
+  // if ($(document).scrollTop() > 40) {
+  if ($(document).scrollTop() == 0) {
     $('#top-navbar').removeClass('initial-navbar');
     $('#top-navbar').addClass('final-navbar shadow');
 
@@ -19,21 +20,36 @@ const updateNavBar = () => {
     }
 
   } else {
-    $('#top-navbar').removeClass('final-navbar shadow');
-    $('#top-navbar').addClass('initial-navbar');
+    $('#top-navbar').removeClass('initial-navbar');
+    $('#top-navbar').addClass('final-navbar shadow');
 
-    $('#navbar-toggler').removeClass('navbar-light');
-    $('#navbar-toggler').addClass('navbar-dark');
+    $('#navbar-toggler').removeClass('navbar-dark');
+    $('#navbar-toggler').addClass('navbar-light');
 
     // color theme selector a.k.a. dark mode
-    $('#navbar-theme-icon-svg').addClass('navbar-icon-svg-dark');
+    $('#navbar-theme-icon-svg').removeClass('navbar-icon-svg-dark');
 
-    // get the inverted logo from hidden img tag
-    let invertedLogo = document.getElementById("inverted-logo")
-    if (invertedLogo !== null) {
-      let logoURL = invertedLogo.getAttribute("src");
+    // get the main logo from hidden img tag
+    let mainLogo = document.getElementById("main-logo")
+    if (mainLogo !== null) {
+      let logoURL = mainLogo.getAttribute("src");
       $('#logo').attr("src", logoURL);
     }
+    // $('#top-navbar').removeClass('final-navbar shadow');
+    // $('#top-navbar').addClass('initial-navbar');
+
+    // $('#navbar-toggler').removeClass('navbar-light');
+    // $('#navbar-toggler').addClass('navbar-dark');
+
+    // // color theme selector a.k.a. dark mode
+    // $('#navbar-theme-icon-svg').addClass('navbar-icon-svg-dark');
+
+    // // get the inverted logo from hidden img tag
+    // let invertedLogo = document.getElementById("inverted-logo")
+    // if (invertedLogo !== null) {
+    //   let logoURL = invertedLogo.getAttribute("src");
+    //   $('#logo').attr("src", logoURL);
+    // }
   }
 };
 
